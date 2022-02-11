@@ -1,0 +1,25 @@
+path: "/accommodation/peninsula"
+title: "Peninsula Excelsior Hotel"
+featuredImage: "../images/peninsula.png"
+featuredImage1: "../images/peninsula-1.png"
+featuredImage2: "../images/peninsula-2.png"
+from: 165
+rooms: [{ type: "Deluxe SGL/DBL include Internet", rate: 165 }]
+distance: "2km, 6 minutes by car"
+booking: "https://www.peninsulaexcelsior.com.sg"
+terms:
+  roomRates:
+    - Rates quoted are on per room per night basis, subject to 10% service charge and prevailing Government taxes currently at 7% Goods and Services Tax (GST).
+    - Rates are valid for reservations made on or before <b>27 April 2020</b>.
+    - Rates are applicable for stay from 07 to 16 May 2020.
+    - Room occupancy allows a maximum of 3 adults or 2 adults and 1 child.
+    - Request for bed type is subject to availability.
+    - All reservations must be guaranteed by use of major credit cards
+  extra:
+    - Extra bed can be charged at additional SGD70.00++ per room per night, exclude breakfast.
+    - Buffet breakfast can be arranged at SGD20.00++ per person per day.
+  noShow:
+    - Should there be a cancellation for confirmed reservations after <b>27 April 2020</b>, or a no-show for confirmed reservations, a one-night charge plus taxes will be applicable.
+  arrival:
+    - Check-in time is 1500hrs; check-out time is 1200hrs.
+  promo: true

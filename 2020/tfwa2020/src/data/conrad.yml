@@ -1,0 +1,30 @@
+path: "/accommodation/conrad"
+title: "Conrad Centennial Singapore"
+featuredImage: "../images/conrad.png"
+featuredImage1: "../images/conrad-1.png"
+featuredImage2: "../images/conrad-2.png"
+from: 320
+rooms:
+  [
+    { type: "Deluxe SGL include Internet", rate: 320 },
+    { type: "Deluxe DBL include Internet", rate: 350 },
+  ]
+distance: "1km, 3 minutes by car"
+booking: "http://group.conradhotels.com/TFWA2020"
+terms:
+  roomRates:
+    - Rates quoted are on per room per night basis, subject to 10% service charge and prevailing Government taxes currently at 7% Goods and Services Tax (GST).
+    - Rates are valid for reservations made on or before <b>07 April 2020</b>.
+    - Rates are applicable for stay from 07 to 16 May 2020.
+    - Room rates quoted are based on a minimum of 2 nights' stay per room.
+    - Room occupancy allows a maximum of 3 adults or 2 adults and 1 child.
+    - Request for bed type is subject to availability.
+    - All reservations must be guaranteed by use of major credit cards.
+  extra:
+    - Extra bed will be charged at additional SGD80.00++ per room per night, exclude breakfast.
+    - Buffet breakfast can be arranged at SGD30.00++ per person per day.
+  noShow:
+    - One-night room charge plus applicable tax and service charge will be levied in the event of cancellation for confirmed reservations after <b>07 April 2020</b>.
+    - In the event of cancellation 14 days prior to arrival or no-show, a fee equivalent to the entire length of stay will be imposed.
+  arrival:
+    - Check-in time is 1500hrs; check-out time is 1200hrs.

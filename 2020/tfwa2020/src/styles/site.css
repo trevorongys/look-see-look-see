@@ -1,0 +1,50 @@
+@tailwind base;
+
+h1 {
+  @apply text-green uppercase mt-8 mb-2 text-2xl tracking-widest;
+}
+
+p {
+  @apply mb-2;
+}
+
+p + h1 {
+  @apply pt-8;
+}
+
+main ul {
+  @apply ml-5;
+}
+
+main li {
+  @apply list-disc;
+}
+
+.btn {
+  @apply py-2 px-4 text-xs inline-block;
+}
+
+.btn-green {
+  @apply text-white bg-green;
+}
+
+.btn-red {
+  @apply text-white bg-red;
+}
+
+main a {
+  @apply text-green;
+}
+
+main a:hover,
+footer a:hover {
+  @apply underline;
+}
+
+.terms-and-conditions h3 {
+  @apply uppercase font-bold mt-3;
+}
+
+@tailwind components;
+
+@tailwind utilities;

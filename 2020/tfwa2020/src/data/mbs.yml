@@ -1,0 +1,23 @@
+path: "/accommodation/mbs"
+title: "Marina Bay Sands"
+featuredImage: "../images/mbs.png"
+featuredImage1: "../images/mbs-1.png"
+featuredImage2: "../images/mbs-2.png"
+from: 340
+rooms: [{ type: "Deluxe SGL/DBL include Internet", rate: 340 }]
+distance: "300m, walking distance"
+booking: "https://book.passkey.com/go/TWTFW20"
+terms:
+  roomRates:
+    - Rates quoted are on per room per night basis, subject to 10% service charge and prevailing Government taxes currently at 7% Goods and Services Tax (GST).
+    - Rates are valid for reservations made on or before <b>07 April 2020</b>.
+    - Rates are applicable for stay from 7 to 16 May 2020.
+    - Room occupancy allows a maximum of 2 adults only.
+    - Request for bed type is subject to availability.
+    - All reservations must be guaranteed by use of major credit cards.
+  extra:
+    - Additional breakfast can be arranged at SGD48.00++ per person per day
+  noShow:
+    - Any cancellations or shortening of booking must be made by <b>07 April 2020</b>, failing which room charge of the full length of stay requested (plus 10% service charge and prevailing government tax) will be made to the credit card details of the individual guest(s) provided for guarantee.
+  arrival:
+    - Check-in time is 1500hrs; check-out time is 1100hrs.

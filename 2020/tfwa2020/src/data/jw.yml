@@ -1,0 +1,24 @@
+path: "/accommodation/jw"
+title: "JW Marriott Hotel Singapore South Beach"
+featuredImage: "../images/jw.png"
+featuredImage1: "../images/jw-1.png"
+featuredImage2: "../images/jw-2.png"
+from: 310
+rooms: [{ type: "Deluxe SGL/DBL include Internet", rate: 310 }]
+distance: "1.2km, 6 minutes by car"
+booking: "https://book.passkey.com/gt/217780589?gtid=81e4c9533623388ddd2aae5241380c33"
+terms:
+  roomRates:
+    - Rates quoted are on per room per night basis, subject to 10% service charge and prevailing Government taxes currently at 7% Goods and Services Tax (GST).
+    - Rates are valid for reservations made on or before <b>19 April 2020</b>.
+    - Rates are applicable for stay from 07 to 16 May 2020.
+    - Deluxe room occupancy allows a maximum of 2 adults only.
+    - Request for bed type is subject to availability.
+    - All reservations must be guaranteed by use of major credit cards
+  extra:
+    - Extra bed can be arranged at S\$120++ per room per night (subject to availability).
+    - Buffet breakfast will be chargeable at walk-in rate of SGD45.00++.
+  noShow:
+    - Cancellation after <b>19 April 2020</b> will be subject to full charges of rooms reserved, including no-show and shortening of stay.
+  arrival:
+    - Check-in time is 1500hrs; check-out time is 1200hrs.

@@ -1,0 +1,29 @@
+path: "/accommodation/panpac"
+title: "Pan Pacific Singapore"
+featuredImage: "../images/panpac.png"
+featuredImage1: "../images/panpac-1.png"
+featuredImage2: "../images/panpac-2.png"
+from: 292
+rooms:
+  [
+    { type: "Deluxe SGL/DBL include Internet", rate: 292 },
+    { type: "Deluxe Balcony SGL/DBL include Internet", rate: 322 },
+  ]
+distance: "1km, 3 minutes by car"
+booking: "https://book.passkey.com/go/TFWA20"
+terms:
+  roomRates:
+    - Rates quoted are on per room per night basis, subject to 10% service charge and prevailing Government taxes currently at 7% Goods and Services Tax (GST).
+    - Rates are valid for reservations made on or before <b>07 April 2020</b>.
+    - Rates are applicable for stay from 07 to 16 May 2020.
+    - Room occupancy allows a maximum of 3 adults or 2 adults and 1 child.
+    - Request for bed type is subject to availability.
+    - All reservations must be guaranteed by use of major credit cards.
+  extra:
+    - Extra bed will be charged at additional SGD100++ per day, exclude breakfast.
+    - Buffet breakfast can be arranged at SGD48.00++ per person per day.
+  noShow:
+    - Two-night room charge plus applicable tax and service charge will be levied in the event of cancellation for confirmed reservations after <b>25 March 2020</b>.
+    - Cancellation or shortening of stay for confirmed reservations after <b>07 April 2020</b> will be subject to a 100% charge of the entire duration booked.
+  arrival:
+    - Check-in time is 1500hrs; check-out time is 1200hrs.

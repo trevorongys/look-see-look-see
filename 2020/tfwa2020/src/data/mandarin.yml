@@ -1,0 +1,31 @@
+path: "/accommodation/mandarin"
+title: "Mandarin Oriental Singapore"
+featuredImage: "../images/mandarin.png"
+featuredImage1: "../images/mandarin-1.png"
+featuredImage2: "../images/mandarin-2.png"
+from: 310
+rooms:
+  [
+    { type: "Deluxe SGL/DBL include Internet", rate: 310 },
+    {
+      type: "Ocean View or Marina Bay View SGL/DBL include Internet",
+      rate: 340,
+    },
+  ]
+distance: "1km, 3 minutes by car"
+booking: "https://book.passkey.com/go/TFWA2o20"
+terms:
+  roomRates:
+    - Rates quoted are on per room per night basis, subject to 10% service charge and prevailing Government taxes currently at 7% Goods and Services Tax (GST).
+    - Rates are valid for reservations made on or before <b>23 April 2020</b>.
+    - Rates are applicable for stay from 7 to 16 May 2020.
+    - Room occupancy allows a maximum of 2 adults or 1 adult and 1 child.
+    - Request for bed type is subject to availability.
+    - All reservations must be guaranteed by use of major credit cards.
+  extra:
+    - Buffet breakfast at Melt Café can be arranged at SGD40.00++ per person per day for Deluxe and Ocean View or Marina Bay View room.
+    - Oriental Club privileges for double occupancy can be arranged at an additional SGD120.00++ per room per night.
+  noShow:
+    - If there be any cancellation, no-show, shortening stay or postponement of reservations for confirmed reservations made after <b>23 April 2020</b>, the Hotel will charge the applicable room rate for all nights of stay booked and confirmed.
+  arrival:
+    - Check-in time is 1500hrs; check-out time is 1200hrs.

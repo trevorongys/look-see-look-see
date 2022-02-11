@@ -1,0 +1,26 @@
+path: "/accommodation/parkroyal"
+title: "Parkroyal Collection Marina Bay"
+featuredImage: "../images/parkroyal.png"
+featuredImage1: "../images/parkroyal-1.png"
+featuredImage2: "../images/parkroyal-2.png"
+from: 260
+rooms: [{ type: "Deluxe SGL/DBL include Internet", rate: 260 }]
+distance: "1km, 3 minutes by car"
+note: "Please be informed that the hotel is undergoing renovation in phases during this period; disruption will be kept to minimal. All rooms booked will be upgraded to Deluxe Room (previously known as Executive Deluxe Room)."
+booking: "https://book.passkey.com/go/TFWA2020"
+terms:
+  roomRates:
+    - Rates quoted are on per room per night basis, subject to 10% service charge and prevailing Government taxes currently at 7% Goods and Services Tax (GST).
+    - Rates are valid for reservations made on or before <b>07 April 2020</b>.
+    - Rates are applicable for stay from 07 to 16 May 2020.
+    - Room occupancy allows a maximum of 3 adults or 2 adults and 1 child.
+    - Request for bed type is subject to availability.
+    - All reservations must be guaranteed by use of major credit cards
+  extra:
+    - Extra bed can be arranged at SGD80.00++ per room per night, exclude breakfast, subject to availability.
+    - Buffet breakfast can be arranged at SGD30.00++ per person per day.
+  noShow:
+    - Should there be any No-Show for confirmed reservations, a full duration room charge will be imposed to individual guest’s personal credit card.
+    - For cancellation, postponement or shortening of stay within <b>7 days</b> of arrival date, a full duration room charge will be imposed.
+  arrival:
+    - Check-in time is 1400hrs; check-out time is 1200hrs.

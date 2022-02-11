@@ -1,0 +1,24 @@
+path: "/accommodation/grand"
+title: "Grand Park City Hall"
+featuredImage: "../images/grand.png"
+featuredImage1: "../images/grand-1.png"
+featuredImage2: "../images/grand-2.png"
+from: 235
+rooms: [{ type: "Deluxe SGL/DBL include Internet", rate: 235 }]
+distance: "2km, 8 minutes by car"
+booking: "https://be.synxis.com/?themecode=GrandPark&Hotel=26662&locale=en-US&promo=GPCHTFWA2020&Arrive=05/04/2020&room=DKE,DTE"
+terms:
+  roomRates:
+    - Rates quoted are on per room per night basis, subject to 10% service charge and prevailing Government taxes currently at 7% Goods and Services Tax (GST).
+    - Rates are valid for reservations made on or before <b>15 April 2020</b>.
+    - Rates are applicable for stay from 07 to 16 May 2020.
+    - Room occupancy allows a maximum of 2 adults only.
+    - Request for bed type is subject to availability.
+    - All reservations must be guaranteed by use of major credit cards.
+  extra:
+    - Buffet breakfast can be arranged at SGD25.00++ per person per day.
+  noShow:
+    - In the event of shortening of stay, the hotel has to be notified at least 48 hours prior to the day of departure. Otherwise, there will be a 100% charge for the entire length of period booked.
+    - Cancellation received after 12 noon (local time) seven days prior to arrival or failure to show-up will result in a full duration room charge plus taxes.
+  arrival:
+    - Check-in time is 1400hrs; check-out time is 1200hrs.
